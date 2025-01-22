@@ -1,7 +1,6 @@
 # Blue Page
 
-```html
-<!DOCTYPE html>
+
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -19,6 +18,5 @@
 </head>
 <body>
     <h1>Welcome to the Blue Page!</h1>
-    <p>The background of this page is blue.</p>
 </body>
 </html>
