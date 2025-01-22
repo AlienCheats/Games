@@ -1,3 +1,14 @@
+# Scripts - My Website
+
+This repository contains a simple website with:
+- A black rectangle (header) at the top with the title "Scripts."
+- A blue background for the rest of the page.
+
+## HTML Code
+
+Here's the HTML code for the website:
+
+```html
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -28,3 +39,4 @@
     </header>
 </body>
 </html>
+
