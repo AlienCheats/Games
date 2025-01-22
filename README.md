@@ -1,12 +1,4 @@
-# Scripts - My Website
-
-This repository contains a simple website with:
-- A black rectangle (header) at the top with the title "Scripts."
-- A blue background for the rest of the page.
-
-## HTML Code
-
-Here's the HTML code for the website:
+# Blue Page
 
 ```html
 <!DOCTYPE html>
@@ -14,29 +6,19 @@ Here's the HTML code for the website:
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Scripts</title>
+    <title>Blue Page</title>
     <style>
-        /* Style for the body */
         body {
-            background-color: blue; /* Blue background for the page */
-            margin: 0;             /* Remove default margins */
-            font-family: Arial, sans-serif; /* Use a clean font */
-        }
-
-        /* Style for the black rectangle (header) */
-        header {
-            background-color: black; /* Black background for the rectangle */
-            color: white;            /* White text for the header */
-            padding: 10px 20px;      /* Add some padding inside the rectangle */
-            text-align: center;      /* Center-align the text */
-            font-size: 24px;         /* Set a larger font size */
+            background-color: blue; /* Blue background */
+            color: white;           /* White text color */
+            font-family: Arial, sans-serif; /* Font style */
+            text-align: center;     /* Center text alignment */
+            padding: 20px;          /* Padding for the body */
         }
     </style>
 </head>
 <body>
-    <header>
-        Scripts
-    </header>
+    <h1>Welcome to the Blue Page!</h1>
+    <p>The background of this page is blue.</p>
 </body>
 </html>
-
