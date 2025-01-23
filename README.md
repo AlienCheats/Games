@@ -19,7 +19,5 @@
 </head>
 <body>
     <h1><a href="https://aliencheats.github.io/mm2/" target="_blank">MM2</a></h1>
-    <p><a href="bluepage.html" target="_blank">Go to the Blue Page</a></p>
 </body>
 </html>
-
