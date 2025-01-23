@@ -18,6 +18,6 @@
     </style>
 </head>
 <body>
-    <h1><a href="https://aliencheats.github.io/mm2/" target="_blank">MM2</a></h1>
+    <h1><a href="https://aliencheats.github.io/MM2/" target="_blank">MM2</a></h1>
 </body>
 </html>
