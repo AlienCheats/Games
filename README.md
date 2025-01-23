@@ -5,14 +5,14 @@
     <title>Games</title>
     <style>
         body {
-            background-color: #d3d3d3; /* Light gray background */
-            color: black;              /* Black text color */
+            background-color: blue; /* Blue background */
+            color: white;           /* White text color */
             font-family: Arial, sans-serif; /* Font style */
-            text-align: center;        /* Center text alignment */
-            padding: 20px;             /* Padding for the body */
+            text-align: center;     /* Center text alignment */
+            padding: 20px;          /* Padding for the body */
         }
         a {
-            color: blue;               /* Blue link color */
+            color: white;           /* White link color */
             text-decoration: underline; /* Underlined link */
         }
     </style>
